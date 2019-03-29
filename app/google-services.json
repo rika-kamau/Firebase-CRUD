@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236650135864",
+    "firebase_url": "https://morning-kamau-firebase-app.firebaseio.com",
+    "project_id": "morning-kamau-firebase-app",
+    "storage_bucket": "morning-kamau-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236650135864:android:e540d4e7e3de6de4",
+        "android_client_info": {
+          "package_name": "javamorning.com.morningfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236650135864-jqmgrpijrhqjv0ic41ct9td2bordlmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonxZKGA0MdX-tXX7yun5GRe2fPOtbae0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
